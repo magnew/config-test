@@ -1,0 +1,7 @@
+[user]
+	email = mcagnew@gmail.com
+	name = Marshall Agnew
+[core]
+	email = mcagnew@gmail.com
+[alias]
+	co = checkout
